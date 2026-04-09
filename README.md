@@ -4,4 +4,4 @@
 
 💻 I can program in Python, C#, and C++. <br>
 
-🕸️ I am currently developing my own website. <br>
+ I am currently learning Blender. <br>
