@@ -1,7 +1,3 @@
-# 👋I'm KingRkding...
-
-🎮 I use Unity and Unreal and love game development. <br>
-
-💻 I can program in Python, C#, and C++. <br>
-
- I am currently learning Blender. <br>
+# I sit around and watch the tube but nothings on.
+# Python and HTML (sort of)
+# Pronounced "King Are Kay Ding"
